@@ -9,7 +9,7 @@ The robot car is my project for the course EIE3105-Integrated Project at the Hon
 
 The robot can perform three different tasks:
 
-* [__Track Follower__](./Demo2-Track Follower): With the use of Infra-red Photo Transistors and SPI communication, the robot car can follow black track automatically. [Video for Track Follower](https://drive.google.com/open?id=1cUiWE4TCFwyTd62rdcmkwdAOJFBBLITv)
+* [Track Follower](./Demo2-Track Follower): With the use of Infra-red Photo Transistors and SPI communication, the robot car can follow black track automatically. [Video for Track Follower](https://drive.google.com/open?id=1cUiWE4TCFwyTd62rdcmkwdAOJFBBLITv)
 
 * [__Hit three balls__](./Demo3-Hit Balls): The robot car can hit ball automatically by locating the position of the balls and car through WIFI communication. [Video for Hit Balls](https://drive.google.com/open?id=1hNRZpc35jRpEoIIF480u5co5YAhyImfd)
 
