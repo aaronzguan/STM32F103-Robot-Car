@@ -17,7 +17,7 @@ The robot can perform three different tasks:
   <img src="https://github.com/aaronzguan/STM32F103-Robot-Car/blob/master/photos/hitball.png" height="250">
 </p>
 
-* [__Pass ball__](Demo4-Pass%20Ball): Two robot cars, placed in two different regions, can be able to pass a ball to each other. Theoretically, with good control of the speed and orientation of two robot cars, they can pass the ball forever until the battery dies. Video for Pass Ball](https://drive.google.com/open?id=15UgMaZLL-s1u7Mc-ZEMFmdfZflYVXLHK)
+* [__Pass ball__](Demo4-Pass%20Ball): Two robot cars, placed in two different regions, can be able to pass a ball to each other. Theoretically, with good control of the speed and orientation of two robot cars, they can pass the ball forever until the battery dies. [Video for Pass Ball](https://drive.google.com/open?id=15UgMaZLL-s1u7Mc-ZEMFmdfZflYVXLHK)
 
 <p align="center">
   <img src="https://github.com/aaronzguan/STM32F103-Robot-Car/blob/master/photos/passball.png" height="250">
