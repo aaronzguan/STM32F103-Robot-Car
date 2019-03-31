@@ -1,0 +1,9 @@
+void TIM3_CH12_PWM_init(void);
+void SPI2_init(void);
+void Right_Wheel_Cnt_init(void);
+void Left_Wheel_Cnt_init(void);
+void USART2_init(void);
+void Wheel_Dir_Init(void);
+void TIM2_Init(void);
+void Button_init(void);
+void OnBoard_lED_Init(void);
