@@ -1,7 +1,7 @@
 # STM32F103-Robot-Car
 The robot car is my project for the course EIE3105-Integrated Project at the Hong Kong Polytechnic University. It is a DC-motor-driven two-wheel robot car with a mobile power bank as power source, which is designed for handling multiple missions including following specific tracks and locating objects through the WIFI communication.
 
-<img src="https://github.com/aaronzguan/STM32F103-Robot-Car/blob/master/photos/car.JP" height="100">
+<img src="https://github.com/aaronzguan/STM32F103-Robot-Car/blob/master/photos/car.JPG" height="100">
 ![](https://github.com/aaronzguan/STM32F103-Robot-Car/blob/master/photos/car.JPG)
 ![](/photos/car_body.JPG)
 ![](/photos/car_front.JPG)
